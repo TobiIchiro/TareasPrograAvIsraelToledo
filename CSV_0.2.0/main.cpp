@@ -1,11 +1,7 @@
  //Cuasi Shell V_1.0.1
 //Manriquez Yasser; Miranda Zoraida; Morales Julio; Toledo Israel
 
-/*	Pendientes: Realizar las funciones para identificar los polinomios y sus grados
-				Realizar la funcion que cree nueva variable o sobreescriba si exite
-				Realizar la funcion que guarda las variables su polinomo y su grado en un fichero
-				Adjuntar el programa de operaciones con polinomios
-				
+/*					
 	Notas:		Existen diversos "errores" que estamos omitiendo ej comando exit solo se identifica si esta en minusculas 
 */
 
