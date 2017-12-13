@@ -1,0 +1,2 @@
+Manejodeeventos.EditosLineaxLinea$1
+Manejodeeventos.EditosLineaxLinea
