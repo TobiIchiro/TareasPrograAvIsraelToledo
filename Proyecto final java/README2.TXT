@@ -1,6 +1,7 @@
 Copiar las Bibliotecas de la carpeta Bibliotecas en:
 C:\Program Files\Java\jre1.8.0_111\lib\ext
 
+Descargar jdk 8u111 with NetBenas 8.2
 Instalar Arduino versión 1.8.5
 Se usa NetBeans v8.2
 
